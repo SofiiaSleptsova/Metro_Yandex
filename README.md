@@ -38,7 +38,9 @@
 кнопка «Закрыть»;  
 кнопка «Детали маршрута»;  
 поля «Откуда» (начальный пункт) и «Куда» (пункт назначения) (поля должны валидироваться).  
+
 ![iScreen Shoter - Safari - 231103172338](https://github.com/SofiiaSleptsova/Yandex_Metro/assets/147629405/abe5f1a7-4098-4e03-8dab-be5cb81da27d)
+
 1.2. Сброс маршрута   
 Закрыть маршрут можно только тапом на крестик в карточке маршрута. При закрытии маршрута в поле ввода «Откуда»   сохраняется начальная станция из последнего маршрута. Поле ввода «Куда» и маршрут на схеме сбрасывается, выделение   станций пропадает (кроме начальной станции).  
 Если текущее время превышает время окончания маршрута, то временной интервал маршрута обновляется.  
@@ -48,7 +50,9 @@
 2.1. Станцию можно выбрать несколькими способами:  
 тапом на схеме;  
 по иконке i из разных карточек маршрута. Если из поиска выбрать станцию тапом на i и закрыть карточку станции, должен происходить возврат на экран поиска;
+
 ![iScreen Shoter - Safari - 231103172437](https://github.com/SofiiaSleptsova/Yandex_Metro/assets/147629405/57a94262-530c-435d-b7c8-f42c33f21a24)
+
 найти в поиске и нажать на станцию.  
 2.2. Если станция выбрана, всегда выполняются следующие действия:  
 Точка станции на схеме уменьшается.  
@@ -111,7 +115,9 @@
 #### 6. Лонг-тап по станции  
 
 При нажатии на станцию при помощи лонг-тапа открывается карточка станции с кнопками «Отсюда»/«Сюда».  
+
 ![iScreen Shoter - Safari - 231103172655](https://github.com/SofiiaSleptsova/Yandex_Metro/assets/147629405/683e4426-6518-471d-981e-ee77ff31c34f)
+
 Схема не должна смещаться вверх/вниз/влево/вправо при лонгтапе по станции.
 
 #### 7. Скролл схемы при помощи лонг-тапа
@@ -130,9 +136,6 @@
 ## Инструменты
 <p align="left"> 
   <a href="https://docs.google.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/240/1015/png-transparent-g-suite-google-docs-google-angle-rectangle-logo.png" width="36" height="36" alt="Google Sheets" /></a>
-  <a href="https://app.diagrams.net" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/2048px-Diagrams.net_Logo.svg.png" width="36" height="36" alt="draw.io" /></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-  <a><img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" width="36" height="36" alt="Devtools" /></a>
   <a href="https://www.jetbrains.com/youtrack/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/YouTrack_Icon.png" width="36" height="36" alt="Youtrack" /></a>
-  <a href="https://www.charlesproxy.com/" target="_blank" rel="noreferrer"><img src="https://davidwalsh.name/demo/charlesproxyicon.svg" width="36" height="36" alt="Charles" /></a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/800px-Android_Studio_icon_%282023%29.svg.png" width="36" height="36" alt="Android_Studio" /></a>
 </p> 
