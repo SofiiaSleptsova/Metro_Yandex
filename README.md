@@ -14,8 +14,6 @@
 <details>
 <summary> Задачи </summary> 
 
-#### Задачи 
-
 1. Проанализировать требования к мобильному приложению Яндекс.Метро
 2. Спроектировать чек-лист для тестирования мобильного приложения на часть требований (для новых фич)
 3. Протестировать мобильное приложение в эмуляторе с помощью Android Studio завести баг-репорты 
@@ -142,3 +140,48 @@
   <a href="https://www.jetbrains.com/youtrack/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/YouTrack_Icon.png" width="36" height="36" alt="Youtrack" /></a>
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/800px-Android_Studio_icon_%282023%29.svg.png" width="36" height="36" alt="Android_Studio" /></a>
 </p> 
+
+## Процесс работы
+
+### Задача 2 (проектирование тестов)
+
+![Чек-лист_ мобильное приложение-2](https://github.com/SofiiaSleptsova/Yandex_Metro/assets/147629405/6427ddfa-2563-45d8-b0b4-e77416e4d3b1)
+
+### Задача 3 (выполнение тестов)
+
+[Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1y_dVZCaKWYKP17JVRHCYdO9HxVyHSlECJB6-uux_4oA/edit?usp=sharing)
+
+<details>
+ <summary> Баг-репорты </summary>
+
+<details>
+<summary>ID: 683-95 </summary>
+
+### Если текущее время превышает временной интервал, построенного маршрута, то временной интервал НЕ обновляется автоматически [683-95](https://slepsovasonya.youtrack.cloud/issue/683-95)
+ 
+#### Предусловия:  
+1. Открыть приложение "Яндекс.Метро"  
+2. Установить город Москва  
+
+#### Шаги воспроизведения:  
+1. Нажать на схеме станцию "Марьино"  
+2. В карточке станции "Марьино" кликнуть по кнопке "Отсюда"  
+3. Нажать на схеме станцию "Братиславская"  
+4. В карточке станции "Братиславская" кликнуть по кнопке "Сюда"  
+
+#### Ожидаемый результат:   
+При изменении текущего времени и превышении времени окончания маршрута - в карточке маршрута интервал времени обновляется  
+#### Фактический результат:  
+При изменении текущего времени и превышении времени окончания маршрута - в карточке маршрута интервал времени НЕ обновился  
+[видео](https://slepsovasonya.youtrack.cloud/api/files/8-32?sign=MTY5OTQwMTYwMDAwMHwxLTF8OC0zMnxVUXJubDF4STc4ZlZGNV9IY3pYeXNKVDRvVV9GdDlHc3U5%0D%0AZ3piQWgwN0FrDQo%0D%0A&updated=1693222490648)
+
+#### Окружение:  
+macOS  | 12.6.6  
+Android Studio Giraffe | 2022.3.1  
+Galaxy  | 6S (разрешение экрана 1080 х 1920)  
+Яндекс.Метро | 3.6.  
+
+</details>
+
+
+</details>
