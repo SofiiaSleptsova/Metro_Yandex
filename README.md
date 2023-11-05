@@ -309,6 +309,7 @@ Galaxy  | 6S (разрешение экрана 1080 х 1920)
 
 </details>
 
+<details>
 <summary>ID: 683-96 </summary>
 
 ###  Панель с деталями маршрута открывается по тапу любой зоны карточки маршрута [683-96](https://slepsovasonya.youtrack.cloud/issue/683-96)  
@@ -342,6 +343,7 @@ Galaxy  | 6S (разрешение экрана 1080 х 1920)
 
 </details>
 
+<details>
 <summary>ID: 683-99 </summary>
 
 ###  При смене ориентации с портретной на ландшафтную, панель с деталями маршрута закрывается [683-99](https://slepsovasonya.youtrack.cloud/issue/683-99/Pri-smene-orientacii-s-portretnoj-na-landshaftnuyu-panel-s-detalyami-marshruta-zakryvaetsya)  
@@ -374,6 +376,7 @@ Galaxy  | 6S (разрешение экрана 1080 х 1920)
 
 </details>
 
+<details>
 <summary>ID: 683-2 </summary>
 
 ###  При отсутствии интернет-соединения НЕ появляется уведомление об ошибке [683-2](https://slepsovasonya.youtrack.cloud/issue/683-2/Pri-otsutstvii-internet-soedineniya-NE-poyavlyaetsya-uvedomlenie-ob-oshibke)  
@@ -401,6 +404,7 @@ Galaxy  | 6S (разрешение экрана 1080 х 1920)
 
 </details>
 
+<details>
 <summary>ID: 683-3 </summary>
 
 ###  При отключении интернет-соединения НЕ появляется уведомление об ошибке [683-3](https://slepsovasonya.youtrack.cloud/issue/683-3/Pri-otklyuchenii-internet-soedineniya-NE-poyavlyaetsya-uvedomlenie-ob-oshibke)  
@@ -428,6 +432,7 @@ Galaxy  | 6S (разрешение экрана 1080 х 1920)
 
 </details>
 
+<details>
 <summary>ID: 683-100 </summary>
 
 ###  Смена ориентации экрана, с портретного на ландшафтную уменьшает масштаб построенного маршрута [683-100](https://slepsovasonya.youtrack.cloud/issue/683-100/Smena-orientacii-ekrana-s-portretnogo-na-landshaftnuyu-umenshaet-masshtab-postroennogo-marshruta)  
