@@ -660,6 +660,7 @@ Galaxy  | 6S (разрешение экрана 1080 х 1920)
 <details>
 <summary>ID: 683-9 </summary>
 ***
+  
 #### Прекращение лонгтапа в точке во время смещения возвращает точку выбранной станции в стандартный режим [683-9](https://slepsovasonya.youtrack.cloud/issue/683-9/Prekrashenie-longtapa-v-tochke-vo-vremya-smesheniya-vozvrashaet-tochku-vybrannoj-stancii-v-standartnyj-rezhim)
 
 **Предусловия:**  
