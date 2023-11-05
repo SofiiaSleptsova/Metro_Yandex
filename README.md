@@ -236,7 +236,8 @@ Galaxy  | 6S (разрешение экрана 1080 х 1920)
 #### Фактический результат:  
 При выборе закрытой станции через панель поиска, на схеме, над выбранной станцией появляется стандартный пин  
 ![image](https://github.com/SofiiaSleptsova/Yandex_Metro/assets/147629405/431634db-56dc-4e40-a7d4-eb15271178a4)
-<img src="[https://github.com/SofiiaSleptsova/Yandex_Marshruty/assets/147629405/f27075d3-effe-4410-861f-7ea64602ace7](https://github.com/SofiiaSleptsova/Yandex_Metro/assets/147629405/431634db-56dc-4e40-a7d4-eb15271178a4)" width="300" height="130">
+
+<img src="https://github.com/SofiiaSleptsova/Yandex_Metro/assets/147629405/431634db-56dc-4e40-a7d4-eb15271178a4" width="150" height="400">
 
 #### Приоритет:   
 Серьезная  
