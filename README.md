@@ -183,7 +183,7 @@ macOS  | 12.6.6
 Android Studio Giraffe | 2022.3.1  
 Galaxy  | 6S (разрешение экрана 1080 х 1920)  
 Яндекс.Метро | 3.6.  
-
+***
 </details>
 
 <details>
@@ -214,7 +214,7 @@ macOS  | 12.6.6
 Android Studio Giraffe | 2022.3.1  
 Galaxy  | 6S (разрешение экрана 1080 х 1920)  
 Яндекс.Метро | 3.6.  
-
+***
 </details>
 
 <details>
@@ -246,7 +246,7 @@ macOS  | 12.6.6
 Android Studio Giraffe | 2022.3.1  
 Galaxy  | 6S (разрешение экрана 1080 х 1920)  
 Яндекс.Метро | 3.6.  
-
+***
 </details>
 
 <details>
@@ -276,7 +276,7 @@ macOS  | 12.6.6
 Android Studio Giraffe | 2022.3.1  
 Galaxy  | 6S (разрешение экрана 1080 х 1920)  
 Яндекс.Метро | 3.6.  
-
+***
 </details>
 
 <details>
@@ -307,7 +307,7 @@ macOS  | 12.6.6
 Android Studio Giraffe | 2022.3.1  
 Galaxy  | 6S (разрешение экрана 1080 х 1920)  
 Яндекс.Метро | 3.6.  
-
+***
 </details>
 
 <details>
@@ -341,7 +341,7 @@ macOS  | 12.6.6
 Android Studio Giraffe | 2022.3.1  
 Galaxy  | 6S (разрешение экрана 1080 х 1920)  
 Яндекс.Метро | 3.6.  
-
+***
 </details>
 
 <details>
@@ -374,7 +374,7 @@ macOS  | 12.6.6
 Android Studio Giraffe | 2022.3.1  
 Galaxy  | 6S (разрешение экрана 1080 х 1920)  
 Яндекс.Метро | 3.6.  
-
+***
 </details>
 
 <details>
@@ -402,7 +402,7 @@ macOS  | 12.6.6
 Android Studio Giraffe | 2022.3.1  
 Galaxy  | 6S (разрешение экрана 1080 х 1920)  
 Яндекс.Метро | 3.6.  
-
+***
 </details>
 
 <details>
@@ -430,7 +430,7 @@ macOS  | 12.6.6
 Android Studio Giraffe | 2022.3.1  
 Galaxy  | 6S (разрешение экрана 1080 х 1920)  
 Яндекс.Метро | 3.6.  
-
+***
 </details>
 
 <details>
@@ -466,7 +466,7 @@ macOS  | 12.6.6
 Android Studio Giraffe | 2022.3.1  
 Galaxy  | 6S (разрешение экрана 1080 х 1920)  
 Яндекс.Метро | 3.6.  
-
+***
 </details>
 
 <details>
@@ -496,7 +496,7 @@ macOS  | 12.6.6
 Android Studio Giraffe | 2022.3.1  
 Galaxy  | 6S (разрешение экрана 1080 х 1920)  
 Яндекс.Метро | 3.6.  
-
+***
 </details>
 
 <details>
@@ -525,7 +525,7 @@ macOS  | 12.6.6
 Android Studio Giraffe | 2022.3.1  
 Galaxy  | 6S (разрешение экрана 1080 х 1920)  
 Яндекс.Метро | 3.6.  
-
+***
 </details>
 
 <details>
@@ -557,7 +557,7 @@ macOS  | 12.6.6
 Android Studio Giraffe | 2022.3.1  
 Galaxy  | 6S (разрешение экрана 1080 х 1920)  
 Яндекс.Метро | 3.6.  
-
+***
 </details>
 
 <details>
@@ -590,7 +590,7 @@ macOS  | 12.6.6
 Android Studio Giraffe | 2022.3.1  
 Galaxy  | 6S (разрешение экрана 1080 х 1920)  
 Яндекс.Метро | 3.6.  
-
+***
 </details>
 
 <details>
@@ -623,7 +623,7 @@ macOS  | 12.6.6
 Android Studio Giraffe | 2022.3.1  
 Galaxy  | 6S (разрешение экрана 1080 х 1920)  
 Яндекс.Метро | 3.6.  
-
+***
 </details>
 
 <details>
@@ -654,7 +654,7 @@ macOS  | 12.6.6
 Android Studio Giraffe | 2022.3.1  
 Galaxy  | 6S (разрешение экрана 1080 х 1920)  
 Яндекс.Метро | 3.6.  
-
+***
 </details>
 
 <details>
