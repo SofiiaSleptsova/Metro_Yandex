@@ -173,7 +173,7 @@
 При изменении текущего времени и превышении времени окончания маршрута - в карточке маршрута интервал времени обновляется  
 #### Фактический результат:  
 При изменении текущего времени и превышении времени окончания маршрута - в карточке маршрута интервал времени НЕ обновился  
-[видео](https://slepsovasonya.youtrack.cloud/api/files/8-32?sign=MTY5OTQwMTYwMDAwMHwxLTF8OC0zMnxVUXJubDF4STc4ZlZGNV9IY3pYeXNKVDRvVV9GdDlHc3U5%0D%0AZ3piQWgwN0FrDQo%0D%0A&updated=1693222490648)
+![видео](https://slepsovasonya.youtrack.cloud/api/files/8-32?sign=MTY5OTQwMTYwMDAwMHwxLTF8OC0zMnxVUXJubDF4STc4ZlZGNV9IY3pYeXNKVDRvVV9GdDlHc3U5%0D%0AZ3piQWgwN0FrDQo%0D%0A&updated=1693222490648)
 
 #### Приоритет:   
 Серьезная  
@@ -235,9 +235,8 @@ Galaxy  | 6S (разрешение экрана 1080 х 1920)
 При выборе закрытой станции через панель поиска, на схеме, над выбранной станцией появляется специальный пин  
 #### Фактический результат:  
 При выборе закрытой станции через панель поиска, на схеме, над выбранной станцией появляется стандартный пин  
-![image](https://github.com/SofiiaSleptsova/Yandex_Metro/assets/147629405/431634db-56dc-4e40-a7d4-eb15271178a4)
 
-<img src="https://github.com/SofiiaSleptsova/Yandex_Metro/assets/147629405/431634db-56dc-4e40-a7d4-eb15271178a4" width="150" height="400">
+<img src="https://github.com/SofiiaSleptsova/Yandex_Metro/assets/147629405/431634db-56dc-4e40-a7d4-eb15271178a4" width="20" height="400">
 
 #### Приоритет:   
 Серьезная  
